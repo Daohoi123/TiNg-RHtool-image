@@ -40,4 +40,4 @@ Một tệp HTML mới (ting_rhtool.html) sẽ được tạo và tải xuống.
 ## Demo Images / Hình ảnh Demo
 Here are some examples of what you can do with TiNg RHtool. (Dưới đây là một vài ví dụ về những gì bạn có thể làm với TiNg RHtool.)
 
-<img src="[https://res.cloudinary.com/dzfuqyqoq/image/upload/v1759569593/qwen-01_a89k6p.jpg](https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760431344/hinh_zbwgzn.jpg)" alt="Image">
+<img src="https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760431344/hinh_zbwgzn.jpg" alt="Image">
