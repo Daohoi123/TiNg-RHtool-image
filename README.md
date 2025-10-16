@@ -2,7 +2,7 @@
 A web-based tool designed to streamline and simplify the use of AI image processing workflows from the runninghub.ai platform.
 -----
 ## Overview
-TiNg RHtool integrates a wide variety of AI image processing functions from runninghub.ai into a single, user-friendly interface. Instead of navigating multiple workflows, you can access everything from basic background removal to advanced style transfers and object manipulation in one place. This tool is built with simple HTML, making it lightweight, fast, and easy to deploy.
+TiNg RHtool integrates a wide variety of AI image processing functions from runninghub.ai into a single, user-friendly interface. Instead of navigating multiple workflows, you can access many things from basic processes to advanced handling processes in one place. This tool is built with simple HTML, making it lightweight, fast, and easy to deploy.
 
 Go to runninghub: [Rungninghub](https://www.runninghub.ai/?inviteCode=223b8be5)
 
@@ -25,7 +25,7 @@ This is the quickest way to try out the tool.
 A new HTML file (ting_rhtool.html) will be created and downloaded. This file is pre-filled with your API key and can be used directly in a browser or deployed to any web hosting service like Vercel, Netlify, or GitHub Pages.
 -----
 ## Tổng Quan
-TiNg RHtool là một công cụ tích hợp các quy trình xử lý ảnh AI đa dạng từ nền tảng runninghub.ai vào một giao diện duy nhất, thân thiện với người dùng. Thay vì phải điều hướng qua nhiều quy trình khác nhau, bạn có thể truy cập mọi thứ, từ tách nền cơ bản đến chuyển đổi phong cách và chỉnh sửa vật thể nâng cao, chỉ tại một nơi. Công cụ này được xây dựng bằng HTML đơn giản, giúp nó nhẹ, nhanh và dễ dàng triển khai.
+TiNg RHtool là một công cụ tích hợp các quy trình xử lý ảnh AI đa dạng từ nền tảng runninghub.ai vào một giao diện duy nhất, thân thiện với người dùng. Thay vì phải điều hướng qua nhiều quy trình khác nhau, bạn có thể truy cập nhiều thứ, từ những quy trình cơ bản đến các quy trình xử lý nâng cao, chỉ tại một nơi. Công cụ này được xây dựng bằng HTML đơn giản, giúp nó nhẹ, nhanh và dễ dàng triển khai.
 
 truy cập vào trang runninghub: [Rungninghub](https://www.runninghub.ai/?inviteCode=223b8be5)
 
