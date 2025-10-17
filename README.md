@@ -57,3 +57,7 @@ Here are some examples of what you can do with TiNg RHtool. (Dưới đây là m
 <img src="https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760432881/hinbh-05_twthdo.jpg" alt="Image 5">
 <img src="https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760432874/hinbh-06_ypojgq.jpg" alt="Image 6">
 <img src="https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760432875/hinbh-07_akmb67.jpg" alt="Image 7">
+
+## Watch the introductory video
+
+[![Watch the introduction video](https://res.cloudinary.com/dzfuqyqoq/image/upload/v1760697367/play-01_keuszk.jpg)](https://youtu.be/15XmRIoRYfE)
