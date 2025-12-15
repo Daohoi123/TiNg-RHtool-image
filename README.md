@@ -13,7 +13,7 @@ There are two ways to use TiNg RHtool:
 **Method 1: Live Demo**
 
 This is the quickest way to try out the tool.
-1. Go to the demo link: [Demo TING](https://ting-rhtool.vercel.app/)
+1. Go to the demo link: [Demo TING](https://https://rh.tingtoolai.vn//)
 2. Select your preferred language.
 3. Enter your Runninghub API key to start processing images.
 
@@ -36,7 +36,7 @@ Có hai cách để sử dụng TiNg RHtool:
 **Cách 1: Chạy Link Demo**
 
 Đây là cách nhanh nhất để trải nghiệm công cụ.
-1. Truy cập link demo: [TING demo](https://ting-rhtool.vercel.app/)
+1. Truy cập link demo: [TING demo](https://https://rh.tingtoolai.vn//)
 2. Chọn ngôn ngữ bạn muốn sử dụng.
 3. Nhập API key của runninghub của bạn để bắt đầu xử lý ảnh.
 
